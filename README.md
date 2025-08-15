@@ -15,7 +15,7 @@ npm test
 
 Paso 4: Ejecutar la Aplicación
 
-npm start
+npm run start
 
 La aplicación se abrirá automáticamente en http://localhost:3000
 
